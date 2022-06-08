@@ -1,12 +1,61 @@
 
-## 😄 Lotte-Plate Rule!
+# 😄 Lotte-Plate Rule!
 
-### 🌱 초기 설정(작업 브랜치 생성 & fork)
-1. **그룹 repository** 에 개인이 작업할 브랜치를 생성합니다. (추천 : `{githubID}`)
-2. fork를 하여 개인계정의 repository에도 추가합니다.
-3. **개인 repository** 내부 본인의 디렉토리에서 작업합니다.
+## 🌱 초기 설정(작업 브랜치 생성 & fork)
+1. **그룹 Organization** 에 개인 Repository를 생성한다. (추천 : `githubID`) 
 
-### 📤 Commit & PR
-1. 각자의 내용을 담은 md 파일과 코드를 작성하고 commit push 합니다.
-2. PR을 `Restaurant-Rating-System:{githubID}` <= `{githubID}:main` 로 보냅니다.
-    - ex. `Restaurant-Rating-System:jungeu1509 <- jungeu1509:main`
+---
+
+# Restaurant Rating System
+
+- 비트컴퓨터 교육장의 주변에 있는 식당에서 밥을 먹다 학우들과 식당의 정보들을 공유하면 좋겠다는 생각에 프로그램을 만들기로 했습니다.
+
+![hamburger](/image/hamburger(300).png)
+
+# 팀원
+
+- 조장
+    - 김동현
+- 조원
+    - 김진광, 정은우, 서지훈, 이충현
+
+# 제작 기간
+
+- 제작
+    - 2022/06/07 ~ 2022/06/08
+- 코드리뷰 및 발표
+    - 2022/06/09
+
+# 프로그램 기능 설명
+
+## 1. 필수 기능
+
+- 식당 추가하기
+- 식당 목록 불러오기
+    - 정렬 사용하기
+- 식당 수정하기
+- 식당 삭제하기
+
+## 2. 필수 적용 기술
+
+JAVA (18 버전), 식당 정보에 관한(CRUD), 정렬(Sorting), FileRead/Write
+
+## 3. 식당 정보
+
+- 상호명
+- 대표메뉴의 이름
+- 대표메뉴의 가격
+- 평점
+- 저장한 날짜
+- 수정한 날짜
+
+## 4. 추가사항
+
+필수 기능 구현 후 기능 및 기술 추가 가능
+
+# 회의록
+
+- 2022/06/07
+    - 제작 기간 및 주제 선정
+    - 적용 기술 선정
+    - 필수 기능 구현 후 추가 기능 각자 생각해서 더 구현하기
