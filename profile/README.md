@@ -1,7 +1,7 @@
 
-## 💻 Lotte-Plate Rule!
+## 😄 Lotte-Plate Rule!
 
-### 💡 초기 설정(작업 브랜치 생성 & fork)
+### 🌱 초기 설정(작업 브랜치 생성 & fork)
 1. **그룹 repository** 에 개인이 작업할 브랜치를 생성합니다. (추천 : `{githubID}`)
 2. fork를 하여 개인계정의 repository에도 추가합니다.
 3. **개인 repository** 내부 본인의 디렉토리에서 작업합니다.
