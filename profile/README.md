@@ -2,7 +2,7 @@
 # 😄 Lotte-Plate Rule!
 
 ## 🌱 초기 설정(작업 브랜치 생성 & fork)
-1. **그룹 Organization** 에 개인 Repository를 생성한다. (추천 : `githubID`) 
+1. **그룹 Organization** 에 개인 Repository를 생성한다. (추천 : RSS_`githubID`) 
 
 ---
 
