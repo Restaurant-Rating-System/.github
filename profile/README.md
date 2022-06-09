@@ -1,14 +1,18 @@
 
 # 😄 Lotte-Plate Rule!
 
-## 🌱 초기 설정(작업 브랜치 생성 & fork)
-1. **그룹 Organization** 에 개인 Repository를 생성한다. (추천 : RSS_`githubID`) 
+### 🌱 초기 설정(작업 브랜치 생성 & fork)
+
+**Organization** 에 개인 Repository를 생성한다. (추천 : RSS_`githubID`) 
+
+
+### 💬 회의록
+
+링크 : [https://github.com/Restaurant-Rating-System/The-Meeting-of-Minute](https://github.com/Restaurant-Rating-System/The-Meeting-of-Minute)
 
 ---
 
-
-
-# [Restaurant Rating System] 
+# 🍔 [Restaurant Rating System] 
 
 <div align=center>
     
