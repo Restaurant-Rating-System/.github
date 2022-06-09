@@ -6,7 +6,7 @@
 **Organization** 에 개인 Repository를 생성한다. (추천 : RSS_`githubID`) 
 
 
-### 💬 회의록
+### 📚 회의록
 
 링크 : [https://github.com/Restaurant-Rating-System/The-Meeting-of-Minute](https://github.com/Restaurant-Rating-System/The-Meeting-of-Minute)
 
